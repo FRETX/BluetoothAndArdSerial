@@ -1,4 +1,4 @@
-package fretx.demomidi;
+package fretx.version1;
 
 import org.junit.Test;
 

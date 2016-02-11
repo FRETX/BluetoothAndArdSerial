@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BluetoothAndArdSerial.iml" filepath="$PROJECT_DIR$/BluetoothAndArdSerial.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demoMidi.iml" filepath="$PROJECT_DIR$/demoMidi.iml" />
     </modules>
   </component>
 </project>
